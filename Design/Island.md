@@ -21,7 +21,10 @@ Although the island feels peaceful, every location reflects the passage of time.
 ### The Heartlands
 
 The Heartlands are the peaceful center of Lumen and the first region explored by the player. Once the cultural heart of the island, this area is home to the Museum, a small village, open meadows, gentle forests, and well-worn paths that connect the surrounding lands.
+<<<<<<< HEAD
 
+=======
+>>>>>>> e9db2dd (Add Lumen design documentation)
 Although nature has begun reclaiming the area, it still feels welcoming and safe. It introduces players to the island's atmosphere and reflects the hope that remains despite years of being forgotten.
 
 ### Whispering Forest
